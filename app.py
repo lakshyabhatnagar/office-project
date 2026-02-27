@@ -498,5 +498,6 @@ if uploaded_file:
 st.markdown('''
 <div class="footer">
     <span>Made with ❤️ by <strong>Lakshya Bhatnagar</strong></span>
+    <span>Contact: <a href="mailto:lakshyabhatnagar1@gmail.com">lakshyabhatnagar1@gmail.com</a></span>
 </div>
 ''', unsafe_allow_html=True)
